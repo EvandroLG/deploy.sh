@@ -1,4 +1,4 @@
-# Deploy script
+# deploy.sh
 It's a simple bash script to make deploy of my personal projects that are using Django/Gunicorn/nginx
 
 ## Options 
